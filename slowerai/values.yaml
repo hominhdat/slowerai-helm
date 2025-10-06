@@ -89,7 +89,7 @@ env:
   FLASK_DEBUG: "True"
   USERS_PER_PAGE: "10"
   PYTHONUNBUFFERED: "1"
-  LOG_LEVEL: "DEBUG"
+  LOG_LEVEL: "INFO"
 
 autoscaling:
   enabled: true
