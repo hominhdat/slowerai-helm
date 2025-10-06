@@ -8,7 +8,7 @@ image:
   repository: 001046904558.dkr.ecr.us-west-2.amazonaws.com/slowerai
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "v11.0.0"
+  tag: "v12.0.0"
 
 imagePullSecrets: []
 nameOverride: ""
